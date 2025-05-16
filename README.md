@@ -1,2 +1,2 @@
 # pytorch-grind
-Repository to note me studying the pytorch library.
+This repository contains my attempts to grok the pytorch library. 
